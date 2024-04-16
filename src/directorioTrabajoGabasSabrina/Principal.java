@@ -13,6 +13,9 @@ public class Principal {
 		
 		// En esta clase vamos a hacer una instancia de un objeto clase1 
 		
+		Clase objeto = new Clase();
+		
+		System.out.println(objeto);
 
 	}
 
