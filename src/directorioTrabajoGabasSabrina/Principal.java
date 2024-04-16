@@ -4,7 +4,7 @@ public class Principal {
 	
 	/**
 	 * @param args
-	 * @version 1.0
+	 * @version 1.2
 	 * @author Sabrina Gabas Jimenez
 	 */
 
